@@ -1,0 +1,15 @@
+C:\Users\murra\desktop\repos\dotNetConsole\bin\Debug\net7.0\dotNetConsole.exe
+C:\Users\murra\desktop\repos\dotNetConsole\bin\Debug\net7.0\dotNetConsole.deps.json
+C:\Users\murra\desktop\repos\dotNetConsole\bin\Debug\net7.0\dotNetConsole.runtimeconfig.json
+C:\Users\murra\desktop\repos\dotNetConsole\bin\Debug\net7.0\dotNetConsole.dll
+C:\Users\murra\desktop\repos\dotNetConsole\bin\Debug\net7.0\dotNetConsole.pdb
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\dotNetConsole.csproj.AssemblyReference.cache
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\dotNetConsole.AssemblyInfoInputs.cache
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\dotNetConsole.AssemblyInfo.cs
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\dotNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\dotNetConsole.dll
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\refint\dotNetConsole.dll
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\dotNetConsole.pdb
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\dotNetConsole.genruntimeconfig.cache
+C:\Users\murra\desktop\repos\dotNetConsole\obj\Debug\net7.0\ref\dotNetConsole.dll
